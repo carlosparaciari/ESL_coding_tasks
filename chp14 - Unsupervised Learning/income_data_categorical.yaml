@@ -1,0 +1,53 @@
+'Sex':
+  1: 'Male'
+  2: 'Female'
+
+'Marital status':
+  1: 'Married'
+  2: 'Living together, not married'
+  3: 'Divorced or separated'
+  4: 'Widowed'
+  5: 'Single, never married'
+
+'Occupation':
+  1: 'Professional/Managerial'
+  2: 'Sales Worker'
+  3: 'Factory Worker/Laborer/Driver'
+  4: 'Clerical/Service Worker'
+  5: 'Homemaker'
+  6: 'Student, HS or College'
+  7: 'Military'
+  8: 'Retired'
+  9: 'Unemployed'
+
+'Dual incomes':
+  1: 'Not Married'
+  2: 'Yes'
+  3: 'No'
+
+'Householder status':
+  1: 'Own'
+  2: 'Rent'
+  3: 'Live with Parents/Family'
+
+'Type of home':
+  1: 'House'
+  2: 'Condominium'
+  3: 'Apartment'
+  4: 'Mobile Home'
+  5: 'Other'
+
+'Ethnic classification':
+  1: 'American Indian'
+  2: 'Asian'
+  3: 'Black'
+  4: 'East Indian'
+  5: 'Hispanic'
+  6: 'Pacific Islander'
+  7: 'White'
+  8: 'Other'
+
+'Language in home':
+  1: 'English'
+  2: 'Spanish'
+  3: 'Other'
